@@ -1,0 +1,12 @@
+Library
+.vs
+Android
+Library
+Logs
+obj
+Packages
+ProjectSettings
+WIN
+*.sln
+*.csproj
+
